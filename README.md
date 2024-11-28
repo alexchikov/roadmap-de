@@ -47,5 +47,6 @@
      * [Задачки](https://platform.stratascratch.com/coding?is_freemium=1&user_solution_state=unsolved&code_type=6&order_field=difficulty) &mdash; платформа с задачками для подготовки к собесам по SQL. Здесь также можно писать на pySpark, так что рекомендую попрактиковаться;
     
 Из основного вроде все, могут также спросить что-нибудь про Linux, Airflow и какой-нибудь Docker, но, думаю, список основных тем на собесе тебе пришлет либо рекрутер, либо узнаешь на первой встрече со своим лидом, если такая будет.
+[Здесь](https://github.com/OBenner/data-engineering-interview-questions/tree/master) можешь найти еще и почитать вопросы по всем вышеперечисленным темам.
 
 **Желаю удачи, у тебя все получится! :)**
