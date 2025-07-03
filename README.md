@@ -51,4 +51,8 @@
 Из основного вроде все, могут также спросить что-нибудь про Linux, Airflow и какой-нибудь Docker, но, думаю, список основных тем на собесе тебе пришлет либо рекрутер, либо узнаешь на первой встрече со своим лидом, если такая будет.
 [Здесь](https://github.com/OBenner/data-engineering-interview-questions/tree/master) можешь найти еще и почитать вопросы по всем вышеперечисленным темам.
 
+**Полезные ресурсы**:
+* [Data Engineering Wiki](https://dataengineering.wiki/Index);
+* [Data Engineering Reddit](https://www.reddit.com/r/dataengineering/);
+
 **Желаю удачи, у тебя все получится! :)**
