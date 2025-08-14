@@ -45,6 +45,7 @@
      Материалы:
      * Глава про Spark в курсе по Hadoop'у упомянутом выше;
      * [Книжка](https://drive.google.com/file/d/1F-uAeAdEyr7XddGK_RtBnWYLyHALjrlH/view?usp=sharing) &mdash; просто офигенная книга, очень мало воды, много полезной теории, нашел здесь ответы почти на все вопросы со своих собесов. Советую обязательно прочитать первые пять глав, остальные по желанию. Рекомендую читать по порядку;
+     * Еще одна [книжка](https://psv4.userapi.com/s/v1/d/yfT4rngQEWcRHKhaMRjXknxvIsBj809t_fioKnENAYO6OQgW_Rpyq6FrWK7CN82P8Cvbphh_rH-XytoJmvyFxjfZaDhrnNnRVjaGH-PwQ2OXccYBjZqfYA/Izuchaem_Spark_Molnienosny_analiz_dannykh__PDFDrive_com.pdf), тоже интересная, полезно будет почитать;
      * Видео [Spark Summit](https://youtu.be/7ooZ4S7Ay6Y?si=Ecgw4-VgKlsphB3E), в котором подробно разбираются основные аспекты работы Spark;
      * [Задачки](https://platform.stratascratch.com/coding?is_freemium=1&user_solution_state=unsolved&code_type=6&order_field=difficulty) &mdash; платформа с задачками для подготовки к собесам по SQL. Здесь также можно писать на pySpark, так что рекомендую попрактиковаться;
 
